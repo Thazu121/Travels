@@ -5,6 +5,9 @@ A modern, responsive travel website built using **HTML, CSS, and JavaScript**.
 It showcases popular destinations, features, a contact form, and a newsletter section — perfect for a travel agency or personal travel portfolio.
 
 ---
+## Repository Link
+* Click here t visit the project:
+  [Repo Link](https://github.com/Thazu121/Travels.git)
 
 ## 🚀 Features
 
